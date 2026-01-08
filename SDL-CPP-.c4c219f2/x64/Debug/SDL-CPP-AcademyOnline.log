@@ -1,0 +1,5 @@
+﻿  AcademyOnline.cpp
+  Game.cpp
+C:\Programming\Intro-Cplusplus-SDL\Game.cpp(14,21): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating Code...
+  SDL-CPP-AcademyOnline.vcxproj -> C:\Programming\Intro-Cplusplus-SDL\x64\Debug\SDL-CPP-AcademyOnline.exe

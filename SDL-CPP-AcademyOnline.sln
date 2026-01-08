@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.9.34728.123
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SophiesCPPProjectAcademyOnline", "SophiesCPPProjectAcademyOnline.vcxproj", "{C4C219F2-ADC8-4AD2-874F-EE8CAD3D7CB2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL-CPP-AcademyOnline", "SDL-CPP-AcademyOnline.vcxproj", "{C4C219F2-ADC8-4AD2-874F-EE8CAD3D7CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9DBE262D-8D4D-4320-BABB-65A081B1604E}
+		SolutionGuid = {EDFA6E21-3506-49B0-9B8B-F74DAB8D40C8}
 	EndGlobalSection
 EndGlobal
